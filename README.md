@@ -1,2 +1,2 @@
 # JavaScript_Probando_InnerHTML
-Ejercicio con botones para probar InnerHTML
+Script sencillo con botones para probar InnerHTML
